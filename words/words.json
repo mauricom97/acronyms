@@ -1,0 +1,110 @@
+[
+    {
+        "word": "ACRE",
+        "acronym": "AC"
+    },
+    {
+        "word": "ALAGOAS",
+        "acronym": "AL"
+    },
+    {
+        "word": "AMAPA",
+        "acronym": "AP"
+    },
+    {
+        "word": "AMAZONAS",
+        "acronym": "AM"
+    },
+    {
+        "word": "BAHIA",
+        "acronym": "BA"
+    },
+    {
+        "word": "CEARA",
+        "acronym": "CE"
+    },
+    {
+        "word": "ESPIRITO SANTO",
+        "acronym": "ES"
+    },
+    {
+        "word": "GOIAIS",
+        "acronym": "GO"
+    },
+    {
+        "word": "MARANHAO",
+        "acronym": "MA"
+    },
+    {
+        "word": "MATO GROSSO",
+        "acronym": "MT"
+    },
+    {
+        "word": "MATO GROSSO DO SUL",
+        "acronym": "MS"
+    },
+    {
+        "word": "MINAS GERAIS",
+        "acronym": "MG"
+    },
+    {
+        "word": "PARA",
+        "acronym": "PA"
+    },
+    {
+        "word": "PARAIBA",
+        "acronym": "PB"
+    },
+    {
+        "word": "PARANA",
+        "acronym": "PR"
+    },
+    {
+        "word": "PERNAMBUCO",
+        "acronym": "PE"
+    },
+    {
+        "word": "PIAUI",
+        "acronym": "PI"
+    },
+    {
+        "word": "RIO DE JANEIRO",
+        "acronym": "RJ"
+    },
+    {
+        "word": "RIO GRANDE DO NORTE",
+        "acronym": "RN"
+    },
+    {
+        "word": "RIO GRANDE DO SUL",
+        "acronym": "RS"
+    },
+    {
+        "word": "RONDONIA",
+        "acronym": "RO"
+    },
+    {
+        "word": "RORAIMA",
+        "acronym": "RR"
+    },
+    {
+        "word": "SANTA CATARINA",
+        "acronym": "SC"
+    },
+    {
+        "word": "SAO PAULO",
+        "acronym": "SP"
+    },
+    {
+        "word": "SERGIPE",
+        "acronym": "SE"
+    },
+    {
+        "word": "TOCANTINS",
+        "acronym": "TO"
+    },
+    {
+        "word": "DISTRITO FEDERAL",
+        "acronym": "DF"
+    }
+]

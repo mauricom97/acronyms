@@ -106,5 +106,217 @@
     {
         "word": "DISTRITO FEDERAL",
         "acronym": "DF"
+    },
+    {
+        "word": "ALABAMA",
+        "acronym": "AL"
+    },
+    {
+        "word": "ALASKA",
+        "acronym": "AK"
+    },
+    {
+        "word": "ARIZONA",
+        "acronym": "AZ"
+    },
+    {
+        "word": "ARKANSAS",
+        "acronym": "AR"
+    },
+    {
+        "word": "CALIFORNIA",
+        "acronym": "CA"
+    },
+    {
+        "word": "COLORADO",
+        "acronym": "CO"
+    },
+    {
+        "word": "CONNECTICUT",
+        "acronym": "CT"
+    },
+    {
+        "word": "DELAWARE",
+        "acronym": "DE"
+    },
+    {
+        "word": "DISTRICT OF COLUMBIA",
+        "acronym": "DC"
+    },
+    {
+        "word": "FLORIDA",
+        "acronym": "FL"
+    },
+    {
+        "word": "GEORGIA",
+        "acronym": "GA"
+    },
+    {
+        "word": "GUAM",
+        "acronym": "GU"
+    },
+    {
+        "word": "HAWAII",
+        "acronym": "HI"
+    },
+    {
+        "word": "IDAHO",
+        "acronym": "ID"
+    },
+    {
+        "word": "LLLINOS",
+        "acronym": "IL"
+    },
+    {
+        "word": "INDIANA",
+        "acronym": "IN"
+    },
+    {
+        "word": "IOWA",
+        "acronym": "IA"
+    },
+    {
+        "word": "KANSAS",
+        "acronym": "KS"
+    },
+    {
+        "word": "KENTUCKY",
+        "acronym": "KY"
+    },
+    {
+        "word": "LOUISIANA",
+        "acronym": "LA"
+    },
+    {
+        "word": "MAINE",
+        "acronym": "ME"
+    },
+    {
+        "word": "MARYLAND",
+        "acronym": "MD"
+    },
+    {
+        "word": "MASSACHUSETTS",
+        "acronym": "MA"
+    },
+    {
+        "word": "MICHIGAN",
+        "acronym": "MI"
+    },
+    {
+        "word": "MINNESOTA",
+        "acronym": "MN"
+    },
+    {
+        "word": "MISSOURI",
+        "acronym": "MO"
+    },
+    {
+        "word": "MONTANA",
+        "acronym": "MT"
+    },
+    {
+        "word": "NEBRASKA",
+        "acronym": "NE"
+    },
+    {
+        "word": "NEVADA",
+        "acronym": "NV"
+    },
+    {
+        "word": "NEW HAMPSHIRE",
+        "acronym": "NH"
+    },
+    {
+        "word": "NEW JERSEY",
+        "acronym": "NJ"
+    },
+    {
+        "word": "NEW MEXICO",
+        "acronym": "NM"
+    },
+    {
+        "word": "NEW YORK",
+        "acronym": "NY"
+    },
+    {
+        "word": "NORTH CAROLINA",
+        "acronym": "NC"
+    },
+    {
+        "word": "NORTH DAKOTA",
+        "acronym": "ND"
+    },
+    {
+        "word": "OHIO",
+        "acronym": "OH"
+    },
+    {
+        "word": "OKLAHOMA",
+        "acronym": "OK"
+    },
+    {
+        "word": "OREGON",
+        "acronym": "OR"
+    },
+    {
+        "word": "PENNSYLVANIA",
+        "acronym": "PA"
+    },
+    {
+        "word": "PUERTO RICO",
+        "acronym": "PR"
+    },
+    {
+        "word": "RHODE ISLAND",
+        "acronym": "RI"
+    },
+    {
+        "word": "SOUTH CAROLINA",
+        "acronym": "SC"
+    },
+    {
+        "word": "SOUTH DAKOTA",
+        "acronym": "SD"
+    },
+    {
+        "word": "TENNESSEE",
+        "acronym": "TN"
+    },
+    {
+        "word": "TEXAS",
+        "acronym": "TX"
+    },
+    {
+        "word": "UTAH",
+        "acronym": "UT"
+    },
+    {
+        "word": "VERMONT",
+        "acronym": "VT"
+    },
+    {
+        "word": "VIRGIN ISLANDS",
+        "acronym": "VI"
+    },
+    {
+        "word": "VIRGINIA",
+        "acronym": "VA"
+    },
+    {
+        "word": "WASHINGTON",
+        "acronym": "WA"
+    },
+    {
+        "word": "WEST VIRGINIA",
+        "acronym": "WV"
+    },
+    {
+        "word": "WISCONSIN",
+        "acronym": "WI"
+    },
+    {
+        "word": "WYOMING",
+        "acronym": "WY"
     }
 ]

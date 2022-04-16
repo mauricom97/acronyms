@@ -5,7 +5,7 @@ module.exports = async (req, res) => {
         const requestData = extractData(req)
         await analyseData(requestData)
         const acronym = await replaceWord(requestData)
-        res.send(acronym)
+        res.send({acronyms: acronym})
     } catch (error) {
         console.log(error)
         res.send(error)
